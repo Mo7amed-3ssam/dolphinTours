@@ -1,0 +1,201 @@
+{
+  "toTop": "Terug naar boven!",
+  "whatsappText": "Chat met ons!",
+  "loading": "Laden...",
+  "nav": {
+    "home": "Home",
+    "about": "Over ons",
+    "services": "Excursies",
+    "contact": "Contact",
+    "brand": "Dolphin Tours"
+  },
+  "home": {
+    "hero": {
+      "title": "Ontdek de Oceaan met Dolphin Tours",
+      "subtitle": "Het creëren van magische zee-avonturen vol verwondering, ontdekking en onvergetelijke herinneringen",
+      "explore": "Begin met Ontdekken",
+      "book": "Boek je Excursie"
+    },
+    "destinations": {
+      "sectionTitle": "Neem contact op voor gratis informatie over onze excursies",
+      "sectionSubtitle": "Van kristalheldere wateren tot zeewonderen — je oceaan-avontuur begint hier",
+      "viewDetails": "Meer Ontdekken"
+    },
+    "features": {
+      "sectionTitle": "Waarom Kiezen voor Dolphin Tours",
+      "sectionSubtitle": "Je toegangspoort tot buitengewone zee-ervaringen en oceaan-avonturen",
+      "safe": {
+        "title": "Veilige Oceaan-avonturen",
+        "desc": "Gecertificeerde veiligheidsnormen, ervaren bemanning en gemoedsrust bij elke zee-excursie."
+      },
+      "price": {
+        "title": "Uitstekende Waarde",
+        "desc": "Transparante prijzen, exclusieve pakketten en flexibele boekingsopties ontworpen voor jou."
+      },
+      "guide": {
+        "title": "Expert Zeegidsen",
+        "desc": "Passievolle, deskundige mariene biologen en ervaren kapiteins klaar om oceaanwonderen te delen."
+      },
+      "custom": {
+        "title": "Gepersonaliseerde Oceaan-ervaringen",
+        "desc": "Op maat gemaakte excursies ontworpen rond je interesses, comfortniveau en zee-nieuwsgierigheid."
+      }
+    },
+    "testimonials": {
+      "sectionTitle": "Verhalen van onze Oceaan-ontdekkingsreizigers",
+      "sectionSubtitle": "Echte beoordelingen van avonturiers die de zee hebben ontdekt met Dolphin Tours"
+    }
+  },
+  "about": {
+    "hero": {
+      "title": "Over Dolphin Tours",
+      "subtitle": "Magische zee-ervaringen creëren sinds onze begintijd",
+      "discover": "Ontdek Ons Verhaal"
+    },
+    "story": {
+      "title": "Ons Verhaal",
+      "ourJourney": "Onze Reis",
+      "p1": "Dolphin Tours is een gelicentieerd marien toerismebedrijf, erkend door maritieme autoriteiten met volledige veiligheidscertificeringen. Sinds onze oprichting hebben we ons gespecialiseerd in het creëren van onvergetelijke oceaan-ervaringen — van dolfijnobservatie tot walvisontmoetingen, en van snorkelavonturen tot mariene natuurfotografie-excursies. We bieden uitgebreide diensten inclusief veiligheidsuitrusting, professionele gidsen en persoonlijke ondersteuning van ons toegewijde team van zeexperts.",
+      "p2": "Vandaag wordt Dolphin Tours vertrouwd door oceaan-enthousiastelingen in de regio en daarbuiten vanwege onze professionaliteit, zeekennis en toewijding aan oceaanbescherming.",
+      "stats": {
+        "travelers": "Gelukkige Oceaan-ontdekkingsreizigers",
+        "destinations": "Mariene Bestemmingen",
+        "experience": "Jaren van Zeekennis"
+      }
+    },
+    "values": {
+      "title": "Onze Waarden",
+      "subtitle": "De principes die elk oceaan-avontuur leiden",
+      "trust": {
+        "name": "Vertrouwen",
+        "title": "Vertrouwen & Veiligheid",
+        "desc": "We winnen je vertrouwen met transparante diensten, betrouwbare veiligheidsnormen en duurzame relaties."
+      },
+      "sustainability": {
+        "name": "Duurzaamheid",
+        "title": "Oceaanbescherming",
+        "desc": "We bevorderen verantwoord marien toerisme dat zeedieren beschermt en mariene ecosystemen behoudt."
+      },
+      "excellence": {
+        "name": "Uitmuntendheid",
+        "title": "Toewijding aan Uitmuntendheid",
+        "desc": "Elke excursie is zorgvuldig ontworpen om unieke zee-ervaringen en kostbare oceaanherinneringen te bieden."
+      }
+    },
+    "achievements": {
+      "title": "Onze Prestaties",
+      "subtitle": "Mijlpalen die ons vooruit inspireren",
+      "awards": {
+        "t1": "Marien Toerisme Uitmuntendheidsprijs 2023",
+        "d1": "Erkend voor buitengewone oceaan-ervaringen",
+        "t2": "Beoordeeld met 4,9/5",
+        "d2": "Consequent hoge tevredenheid van ontdekkingsreizigers",
+        "t3": "Oceaanbescherming Gecertificeerd",
+        "d3": "Pionier in duurzame mariene toerismepraktijken",
+        "t4": "5000+ Gelukkige Oceaan-ontdekkingsreizigers",
+        "d4": "Onvergetelijke zee-momenten gecreëerd over de hele wereld"
+      }
+    },
+    "callActions": {
+      "title": "Klaar om je Oceaan-avontuur te Beginnen?",
+      "subtitle": "Doe mee voor een onvergetelijke zee-ervaring",
+      "contact": "Neem Vandaag Contact Op",
+      "book": "Boek je Excursie"
+    }
+  },
+  "services": {
+    "hero": {
+      "title": "Onze Zeexcursies",
+      "subtitle": "Ontdek de wonderen van de oceaan met onze expertgidsen",
+      "explore": "Excursies Verkennen"
+    },
+    "tours": {
+      "sectionTitle": "Kies je Oceaan-avontuur",
+      "sectionSubtitle": "Van zachte dolfijnobservatie tot spannende zee-ontmoetingen",
+      "dolphin": {
+        "title": "Dolfijnobservatie",
+        "desc": "Observeer deze majestueuze wezens in hun natuurlijke habitat met onze ervaren mariene biologen."
+      },
+      "whale": {
+        "title": "Walvisontmoetingen",
+        "desc": "Ervaar de majesteit van walvissen tijdens hun migratieseizoenen met onze gespecialiseerde excursies."
+      },
+      "snorkeling": {
+        "title": "Snorkelavonturen",
+        "desc": "Verken levendige koraalriffen en zeeleven met onze begeleide snorkelervaringen."
+      },
+      "photography": {
+        "title": "Mariene Fotografie",
+        "desc": "Vang adembenemende oceaan-momenten met onze fotografie-gerichte zeexcursies."
+      }
+    }
+  },
+  "contact": {
+    "hero": {
+      "title": "Neem Contact Op",
+      "subtitle": "Klaar om je oceaan-avontuur te beginnen? Neem vandaag contact met ons op!",
+      "reach": "Contact Opnemen"
+    },
+    "info": {
+      "title": "Contactinformatie",
+      "subtitle": "We zijn hier om je perfecte zee-ervaring te plannen",
+      "address": "Marien Toerisme Centrum, Kustdistrict",
+      "phone": "+20 123 456 789",
+      "email": "info@dolphintours.com",
+      "hours": "Dagelijks: 8:00 - 18:00"
+    },
+    "form": {
+      "title": "Stuur ons een Bericht",
+      "name": "Volledige Naam",
+      "email": "E-mailadres",
+      "phone": "Telefoonnummer",
+      "tour": "Gewenste Excursie",
+      "date": "Gewenste Datum",
+      "guests": "Aantal Gasten",
+      "message": "Speciale Verzoeken",
+      "submit": "Bericht Versturen",
+      "sending": "Versturen...",
+      "success": "Bericht succesvol verzonden!",
+      "error": "Fout bij het verzenden van het bericht. Probeer het opnieuw."
+    }
+  },
+  "footer": {
+    "company": {
+      "title": "Dolphin Tours",
+      "desc": "Je vertrouwde partner voor buitengewone zee-avonturen en oceaanontdekkingen.",
+      "social": "Volg ons op sociale media"
+    },
+    "quickLinks": {
+      "title": "Snelle Links",
+      "home": "Home",
+      "about": "Over ons",
+      "services": "Excursies",
+      "contact": "Contact"
+    },
+    "tours": {
+      "title": "Onze Excursies",
+      "dolphin": "Dolfijnobservatie",
+      "whale": "Walvisontmoetingen",
+      "snorkeling": "Snorkelen",
+      "photography": "Fotografie-excursies"
+    },
+    "contact": {
+      "title": "Contactgegevens",
+      "address": "Marien Toerisme Centrum",
+      "phone": "+20 123 456 789",
+      "email": "info@dolphintours.com"
+    },
+    "bottom": {
+      "rights": "© 2024 Dolphin Tours. Alle rechten voorbehouden.",
+      "made": "Gemaakt met",
+      "by": "door",
+      "target": "Target Marketing"
+    }
+  },
+  "error": {
+    "title": "Pagina Niet Gevonden",
+    "subtitle": "De pagina die je zoekt bestaat niet",
+    "back": "Terug naar Home",
+    "desc": "Sorry, we konden de pagina die je zocht niet vinden. Deze kan zijn verplaatst, verwijderd of je hebt een verkeerde URL ingevoerd."
+  }
+}

@@ -1,0 +1,689 @@
+{
+  "toTop": "Zurück nach oben",
+  "whatsappText": "Chatte mit uns!",
+  "loading": "Wird geladen...",
+  "nav": {
+    "home": "Startseite",
+    "about": "Über uns",
+    "services": "Touren",
+    "contact": "Kontakt",
+    "brand": "Dolphin Tours"
+  },
+  "home": {
+    "hero": {
+      "title": "Entdecke den Ozean mit Dolphin Tours",
+      "subtitle": "Wir gestalten magische Meeresabenteuer voller Wunder, Entdeckungen und unvergesslicher Erinnerungen",
+      "explore": "Jetzt Entdecken",
+      "book": "Tour Buchen"
+    },
+    "destinations": {
+      "sectionTitle": "Kontaktiere uns für kostenlose Informationen über unsere Touren",
+      "sectionSubtitle": "Von kristallklaren Gewässern bis zu Meereswundern – dein Ozeanabenteuer beginnt hier",
+      "viewDetails": "Mehr entdecken"
+    },
+    "features": {
+      "sectionTitle": "Warum Dolphin Tours wählen?",
+      "sectionSubtitle": "Dein Tor zu außergewöhnlichen Meereserlebnissen und Ozeanabenteuern",
+      "safe": {
+        "title": "Sichere Ozeanabenteuer",
+        "desc": "Zertifizierte Sicherheitsstandards, erfahrene Crew und Ruhe für jede Meeresführung."
+      },
+      "price": {
+        "title": "Hervorragender Wert",
+        "desc": "Transparente Preise, exklusive Pakete und flexible Buchungsoptionen für dich."
+      },
+      "guide": {
+        "title": "Erfahrene Meeresführer",
+        "desc": "Leidenschaftliche, kenntnisreiche Meeresbiologen und erfahrene Kapitäne bereit, Ozeanwunder zu teilen."
+      },
+      "custom": {
+        "title": "Persönliche Ozeanerlebnisse",
+        "desc": "Maßgeschneiderte Touren, abgestimmt auf deine Interessen, dein Komfortniveau und deine Meeresneugier."
+      }
+    },
+    "testimonials": {
+      "sectionTitle": "Geschichten unserer Ozeanentdecker",
+      "sectionSubtitle": "Authentische Bewertungen von Abenteurern, die das Meer mit Dolphin Tours entdeckt haben"
+    }
+  },
+  "about": {
+    "hero": {
+      "title": "Über Dolphin Tours",
+      "subtitle": "Magische Meereserlebnisse gestalten – seit dem ersten Tag",
+      "discover": "Entdecke unsere Geschichte"
+    },
+    "story": {
+      "title": "Unsere Geschichte",
+      "ourJourney": "Unsere Reise",
+      "p1": "Dolphin Tours ist ein lizenziertes Meeres-Tourismusunternehmen, anerkannt von maritimen Behörden mit vollständigen Sicherheitszertifizierungen. Seit unserer Gründung spezialisieren wir uns auf unvergessliche Ozeanerlebnisse – von Delfinbeobachtung bis zu Walbegegnungen und von Schnorchel-Abenteuern bis zu Meereswildtier-Fototouren. Wir bieten umfassende Dienstleistungen, darunter Sicherheitsausrüstung, professionelle Führer und persönliche Betreuung durch unser engagiertes Meeresexperten-Team.",
+      "p2": "Heute ist Dolphin Tours bei Ozean-Enthusiasten in der Region und darüber hinaus aufgrund unserer Professionalität, Meeresexpertise und unseres Engagements für den Meeresschutz vertrauenswürdig.",
+      "stats": {
+        "travelers": "Glückliche Ozeanentdecker",
+        "destinations": "Meeresziele",
+        "experience": "Jahre Meeresexpertise"
+      }
+    },
+    "values": {
+      "title": "Unsere Werte",
+      "subtitle": "Die Prinzipien, die jedes Ozeanabenteuer leiten",
+      "trust": {
+        "name": "Vertrauen",
+        "title": "Vertrauen & Sicherheit",
+        "desc": "Wir gewinnen dein Vertrauen durch transparente Dienstleistungen, verlässliche Sicherheitsstandards und dauerhafte Beziehungen."
+      },
+      "sustainability": {
+        "name": "Nachhaltigkeit",
+        "title": "Meeresschutz",
+        "desc": "Wir fördern verantwortungsvollen Meeres-Tourismus, der das Meeresleben schützt und Meeresökosysteme bewahrt."
+      },
+      "excellence": {
+        "name": "Exzellenz",
+        "title": "Streben nach Exzellenz",
+        "desc": "Jede Tour ist sorgfältig gestaltet, um einzigartige Meereserlebnisse und bleibende Ozeanerinnerungen zu schaffen."
+      }
+    },
+    "achievements": {
+      "title": "Unsere Erfolge",
+      "subtitle": "Meilensteine, die uns voranbringen",
+      "awards": {
+        "t1": "Meeres-Tourismus-Exzellenzpreis 2023",
+        "d1": "Anerkennung für herausragende Ozeanerlebnisse",
+        "t2": "Bewertung 4,9/5",
+        "d2": "Konstant hohe Zufriedenheit unserer Entdecker",
+        "t3": "Meeresschutz-zertifiziert",
+        "d3": "Vorreiter nachhaltiger Meeres-Tourismus-Praktiken",
+        "t4": "5000+ glückliche Ozeanentdecker",
+        "d4": "Unvergessliche Meeresmomente weltweit geschaffen"
+      }
+    },
+    "callActions": {
+      "title": "Bereit für dein Ozeanabenteuer?",
+      "subtitle": "Begleite uns für ein unvergessliches Meereserlebnis",
+      "btn1": "Kontaktiere uns heute",
+      "btn2": "Tour buchen"
+    }
+  },
+  "services": {
+    "heroTitle": "Sun Sea Tour",
+    "heroSubtitle": "Wir verwandeln deine Reiseträume in atemberaubende Erinnerungen 🌍✈️",
+    "tours": "Touren",
+    "happyGuests": "Zufriedene Gäste",
+    "satisfaction": "Zufriedenheit",
+    "mainTitle": "Unsere Ausflüge & Abenteuer",
+    "mainSubtitle": "Vom Roten Meer bis in die Welt – entdecke handverlesene Reiseziele mit Sun Sea Tour",
+    "whyChoose": "Warum wir",
+    "whyTitle": "Warum Sun Sea Tour?",
+    "whySubtitle": "Weil jede Reise besonders, sicher und unvergesslich sein sollte",
+    "why": [
+      {
+        "title": "🌟 Jahrzehntelange Erfahrung",
+        "desc": "Von tausenden Reisenden vertraut – von kulturellen Entdeckungen bis zu Luxusreisen."
+      },
+      {
+        "title": "🛡️ Sicherheit & Komfort",
+        "desc": "Zertifizierte Guides, reibungslose Abläufe und höchster Komfort – sorgefrei reisen."
+      },
+      {
+        "title": "✨ Maßgeschneiderte Erlebnisse",
+        "desc": "Individuelle Routen, perfekt auf deinen Stil, Vorlieben und dein Tempo zugeschnitten."
+      },
+      {
+        "title": "🌐 Weltweite Verbindungen",
+        "desc": "Exklusive Partnerschaften mit Hotels, Fluglinien und lokalen Guides weltweit."
+      }
+    ],
+    "howBooking": "So funktioniert’s",
+    "bookingTitle": "Deine Reise beginnt hier",
+    "bookingSubtitle": "Mit Sun Sea Tour buchen ist einfach, entspannt und sorgenfrei",
+    "steps": [
+      {
+        "title": "🌍 Entdecken & Wählen",
+        "desc": "Durchstöbere unsere spannenden Touren und wähle dein Abenteuer."
+      },
+      {
+        "title": "📞 Kontakt aufnehmen",
+        "desc": "Per Telefon, WhatsApp oder E-Mail – wir sind 24/7 für dich da."
+      },
+      {
+        "title": "📝 Anpassen & Bestätigen",
+        "desc": "Passe deine Route mit unseren Experten an und bestätige jedes Detail."
+      },
+      {
+        "title": "✈️ Reisen & Genießen",
+        "desc": "Koffer packen und bereit sein für ein unvergessliches Erlebnis mit Sun Sea Tour!"
+      }
+    ],
+    "InternalProgramsTitles": {
+      "highlights": "Highlights",
+      "moreItems": "Mehr Optionen",
+      "contactNow": "Jetzt kontaktieren",
+      "details": "Details",
+      "pricingInfo": "Preisinformationen",
+      "adults": "Erwachsene",
+      "perPerson": "Pro Person",
+      "children": "Kinder (6–11 Jahre)",
+      "infants": "Kleinkinder (0–5 Jahre)",
+      "free": "Kostenlos",
+      "noCharge": "Ohne Gebühr",
+      "hotelPickup": "Abholung vom Hotel",
+      "hotelReturn": "Rückkehr zum Hotel",
+      "included": "Inklusive Leistungen",
+      "heroBadge": "Premium Erlebnis",
+      "metaAvailability": "Verfügbarkeit",
+      "metaDuration": "Dauer",
+      "metaPrice": "Ab",
+      "quickInfo": {
+        "location": "Ort",
+        "groupSize": "Gruppengröße",
+        "safety": "Sicherheit",
+        "languages": "Sprachen",
+        "locationValue": "Rotes Meer, Ägypten",
+        "groupSizeValue": "Kleine Gruppen",
+        "safetyValue": "Zertifizierte Guides",
+        "languagesValue": "Mehrsprachig"
+      },
+      "pricing": {
+        "choose": "Wähle die perfekte Option für deine Familie",
+        "adultFeatures": [
+          "Vollständiges Erlebnis",
+          "Ausrüstung inklusive",
+          "Professioneller Guide"
+        ],
+        "childBadge": "50% Rabatt",
+        "childDescription": "50% Ermäßigung",
+        "childFeatures": [
+          "Gleiches Erlebnis",
+          "Kinderfreundlich",
+          "Sicherheitsausrüstung"
+        ],
+        "infantBadge": "Kostenlos",
+        "infantDescription": "Ohne Gebühr",
+        "infantFeatures": [
+          "Ohne Gebühr",
+          "Sichere Umgebung",
+          "Familienfreundlich"
+        ],
+        "adultBadge": "Am beliebtesten"
+      },
+      "notes": {
+        "title": "Wichtige Informationen"
+      },
+      "schedule": {
+        "title": "Ablauf & Zeiten",
+        "subtitle": "Plane deinen perfekten Tag mit uns",
+        "pickupLabel": "Wir holen dich vom Hotel ab",
+        "returnLabel": "Zurück zum Hotel mit Erinnerungen"
+      },
+      "includedSection": {
+        "subtitle": "Alles, was du für ein großartiges Erlebnis brauchst"
+      },
+      "cta": {
+        "title": "Bereit für dein Abenteuer?",
+        "subtitle": "Buche jetzt und sichere dir deinen Platz",
+        "saveBtn": "Für später speichern"
+      }
+    },
+    "programsList": [
+      {
+        "title": "Orange Island",
+        "availability": "Jeden Tag",
+        "duration": "ca. 2 Stunden",
+        "hotelPickup": "8:00 Uhr",
+        "hotelReturn": "16:00 Uhr",
+        "notes": "Zusätzliche Gebühr: 5 Euro für den Naturpark",
+        "price": "25",
+        "included": [
+          "2 Stunden auf der Orange Island",
+          "2 Schnorchelstopps",
+          "Wassersport: Bananen- & Sofaboot",
+          "Mittagessen & Getränke auf dem Boot",
+          "Schnorchelausrüstung",
+          "Hotelabholung und Rücktransfer"
+        ],
+        "image": "assets/images/programs images/Orange Island.jpg"
+      },
+      {
+        "title": "Paradise Island",
+        "availability": "Jeden Tag",
+        "duration": "ca. 3 Stunden",
+        "hotelPickup": "8:00 Uhr",
+        "hotelReturn": "16:00 Uhr",
+        "notes": "Zusätzliche Gebühr: 5 Euro für den Naturpark",
+        "price": "50",
+        "included": [
+          "3 Stunden auf Paradise Island 🏝️",
+          "1 Schnorchelstopp 🤿",
+          "Schnorchelausrüstung",
+          "Mittagessen auf der Insel – Offenes Buffet"
+        ],
+        "image": "assets/images/programs images/paradise island.webp"
+      },
+      {
+        "title": "Hula‑Hula Island",
+        "availability": "Jeden Tag",
+        "duration": "ca. 8 Stunden",
+        "hotelPickup": "8:00 Uhr",
+        "hotelReturn": "16:00 Uhr",
+        "notes": "Zusätzliche Gebühr: 5 Euro für den Naturpark",
+        "price": "25",
+        "included": [
+          "Zwei Stunden auf der Hula-Hula-Insel",
+          "2 Schnorchelstopps",
+          "Wassersport: Bananen- & Sofaboot",
+          "Mittagessen & Getränke auf dem Boot",
+          "Schnorchelausrüstung",
+          "Hotelabholung und Rücktransfer"
+        ],
+        "image": "assets/images/programs images/Hula Hula island.jpg"
+      },
+      {
+        "title": "Eden Island",
+        "availability": "Jeden Tag",
+        "duration": "ca. 2 Stunden",
+        "hotelPickup": "8:00 Uhr",
+        "hotelReturn": "16:00 Uhr",
+        "notes": "Zusätzliche Gebühr: 5 Euro für den Naturpark",
+        "price": "70",
+        "included": [
+          "2 Stunden auf Eden Island",
+          "2 Schnorchelstopps",
+          "Wassersport: Bananen- & Sofaboot",
+          "Mittagessen & Getränke auf dem Boot",
+          "Schnorchelausrüstung",
+          "Hotelabholung und Rücktransfer"
+        ],
+        "image": "assets/images/programs images/Eden Island.webp"
+      },
+      {
+        "title": "Magawish Island",
+        "availability": "Jeden Tag",
+        "duration": "ca. 3 Stunden",
+        "hotelPickup": "8:00 Uhr",
+        "hotelReturn": "16:00 Uhr",
+        "notes": "Zusätzliche Gebühr: 5 Euro für den Naturpark",
+        "price": "25",
+        "included": [
+          "2 Schnorchelstopps",
+          "2 Stunden auf Magawish Island",
+          "Schnorchelausrüstung",
+          "Mittagessen auf dem Boot 🛥️"
+        ],
+        "image": "assets/images/programs images/Magawish Island.avif"
+      },
+      {
+        "title": "Delfinhaus",
+        "availability": "Täglich",
+        "duration": "ca. 2 Stunden",
+        "hotelPickup": "8:00 Uhr",
+        "hotelReturn": "15:00 Uhr",
+        "price": "25",
+        "included": [
+          "2 Schnorchelstopps",
+          "Beobachtung von Delfinen",
+          "Wassersport: Bananen- & Sofaboot",
+          "Mittagessen und Getränke",
+          "Schnorchelausrüstung",
+          "Abholung und Rückfahrt vom Hotel"
+        ],
+        "image": "assets/images/programs images/Dolphin House.jpg"
+      },
+      {
+        "title": "Delfin- & Seelöwenshow",
+        "availability": "Täglich",
+        "duration": "ca. 2 Stunden",
+        "hotelPickup": "9:30 Uhr",
+        "hotelReturn": "12:00 Uhr",
+        "price": "20",
+        "included": [
+          "60-minütige Show mit Delfinen, Seelöwen & Walrossen",
+          "Abholung und Rückfahrt vom Hotel"
+        ],
+        "image": "assets/images/programs images/Dolphin Sea Lion Show.webp"
+      },
+      {
+        "title": "VIP-Delfintour mit Schnorcheln",
+        "availability": "Täglich",
+        "duration": "variabel",
+        "hotelPickup": "",
+        "hotelReturn": "",
+        "price": "60",
+        "included": [
+          "Kleine Gruppe besucht Delfine im natürlichen Lebensraum",
+          "Schnorchelausrüstung & Schwimmwesten",
+          "Transfer",
+          "Frühstück",
+          "Schwimmen mit Delfinen",
+          "Grillmittagessen",
+          "Snacks & Getränke",
+          "Hoteltransfer",
+          "Handtuch mitbringen!"
+        ],
+        "image": "assets/images/programs images/VIP DOLPHIN.jpeg"
+      },
+      {
+        "title": "Private Hurghada-Stadttour",
+        "availability": "Täglich",
+        "duration": "variabel",
+        "hotelPickup": "",
+        "hotelReturn": "",
+        "price": "20",
+        "notes": "Der Preis gilt für eine Gruppe",
+        "included": [
+          "Privater Transport.",
+          "Professioneller Reiseleiter.",
+          "Kostenloser Eintritt zur Marina, um die schönsten Yachten und Boote zu sehen.",
+          "Kostenloser Eintritt zum Fischmarkt mit frischem Fisch aus dem Roten Meer.",
+          "Kostenloser Eintritt zur Kirche, der ältesten und größten Kirche in Hurghada.",
+          "Kostenloser Eintritt zum Obst- und Gemüsemarkt."
+        ],
+        "image": "assets/images/programs images/Hurghada City Tour.jpg"
+      },
+      {
+        "title": "Privates Schnellboot",
+        "availability": "Täglich",
+        "duration": "ca. 4 Stunden",
+        "hotelPickup": "",
+        "hotelReturn": "",
+        "price": "120",
+        "notes": "Der Preis gilt für eine Gruppe",
+        "included": [
+          "Besuch der White Island",
+          "Schnorcheln",
+          "Optional: Delfinhaus, Orange Island, Paradise Island oder Eden Island (gegen Aufpreis)",
+          "Schnorchelausrüstung, Obst & Getränke",
+          "Privater Transfer mit Hotelabholung/-rückfahrt"
+        ],
+        "image": "assets/images/programs images/Private Speed Boat.jpg"
+      },
+      {
+        "title": "Abu Dabbab Bucht Marsa Alam",
+        "availability": "Täglich",
+        "duration": "ca. 12 Stunden",
+        "hotelPickup": "05:30 Uhr",
+        "hotelReturn": "17:30 Uhr",
+        "price": "70",
+        "included": [
+          "Abholung und Rücktransfer im gesamten Hurghada",
+          "Transport mit privatem klimatisiertem Auto",
+          "Eintrittsgebühren für den Strand sowie alle Steuern und Abgaben",
+          "Mittagessen und Getränke",
+          "Schnorchelguide",
+          "Snacks, Cola und Wasser"
+        ],
+        "image": "assets/images/programs images/Abu Dabbab Marsa Alam.jpg"
+      },
+      {
+        "title": "Luxor Ganztägige Nil-Exkursion",
+        "availability": "Täglich",
+        "duration": "ca. 18 Stunden",
+        "hotelPickup": "4:00 Uhr",
+        "hotelReturn": "22:00 Uhr",
+        "price": "70",
+        "included": [
+          "Tal der Könige",
+          "Tempel von Karnak & Sphinxe-Allee",
+          "Totenstadt",
+          "Tempel der Hatschepsut",
+          "Memnon-Kolosse",
+          "Alabaster- und Ölmanufakturen",
+          "Mittagessen",
+          "Ägyptologe (mehrsprachig)",
+          "Busabholung und Rückfahrt vom Hotel"
+        ],
+        "image": "assets/images/programs images/Luxor.avif"
+      },
+      {
+        "title": "Kairo & Pyramiden",
+        "availability": "Täglich",
+        "duration": "ca. 22 Stunden",
+        "hotelPickup": "1:00 Uhr",
+        "hotelReturn": "23:00 Uhr",
+        "price": "70",
+        "included": [
+          "Pyramiden von Gizeh",
+          "Ägyptisches Museum",
+          "Totenstadt",
+          "Große Sphinx",
+          "Mittagessen",
+          "Papyrus-Institut und Ölmühle",
+          "Bootsfahrt auf dem Nil (optional + 10 €)",
+          "Ägyptologe: Englisch, Französisch, Deutsch, Russisch, Polnisch",
+          "Hotelabholung und Rückfahrt"
+        ],
+        "image": "assets/images/programs images/Cairo Pyramids.jpg"
+      },
+      {
+        "title": "Desert Super Safari mit BBQ & Show",
+        "availability": "Täglich",
+        "duration": "ca. 6 Stunden",
+        "hotelPickup": "12:00 Uhr",
+        "hotelReturn": "20:00 Uhr",
+        "price": "30",
+        "notes": "Kinder unter 16 Jahren dürfen kein eigenes Fahrzeug fahren. Kunden dürfen ATVs oder Buggys nicht eigenständig bedienen und müssen den Anweisungen des ATV-Personals folgen.",
+        "included": [
+          "Abholung vom Hotel und Fahrt zum ATV-Zentrum",
+          "Quadtour in der Wüste – 45 min",
+          "Buggy-Fahrt – 20 min",
+          "Jeep-Fahrt 25 km bis zum Beduinenzelt",
+          "Ankunft im Zelt, Beduinen-Tee und Kamelritt",
+          "Abendessen (Indischer Reis, gegrilltes Hühnchen, Fleischbällchen, 3 Salate, Gemüse, Cola, Obst)",
+          "Orientalische Show (Bauchtanz, Tannoura, Folklore)",
+          "Rücktransfer zum Hotel"
+        ],
+        "image": "assets/images/programs images/Desert Super Safari.webp"
+      },
+      {
+        "title": "Mini Wüstensafari & Quad Abenteuer",
+        "availability": "Täglich",
+        "duration": "ca. 3 Stunden",
+        "hotelPickup": "11:00 oder 14:00 Uhr",
+        "hotelReturn": "13:00 oder 16:00 Uhr",
+        "price": "20",
+        "included": [
+          "Abholung vom Hotel und Fahrt zum ATV-Zentrum",
+          "Quadtour in der Wüste – 30 min",
+          "Buggy-Fahrt – 15 min",
+          "Jeep-Fahrt 25 km bis zum Beduinenzelt",
+          "Ankunft im Zelt, Beduinen-Tee und Kamelritt",
+          "Rücktransfer zum Hotel"
+        ],
+        "image": "assets/images/programs images/Mini Safari.jpg"
+      },
+      {
+        "title": "Strand- und Wüsten-Reittour",
+        "availability": "Jeden Tag",
+        "duration": "ca. 3 Stunden",
+        "hotelPickup": "15:00 Uhr",
+        "hotelReturn": "19:00 Uhr",
+        "price": "25",
+        "included": [
+          "1-stündiger Ausritt am Strand und in der Wüste",
+          "Abholung und Rücktransport vom Hotel"
+        ],
+        "image": "assets/images/programs images/HorseBack Tours.avif"
+      },
+      {
+        "title": "Parasailing-Flug",
+        "availability": "Jeden Tag",
+        "duration": "ca. 3 Stunden",
+        "hotelPickup": "11:00 Uhr oder 14:00 Uhr",
+        "hotelReturn": "13:00 Uhr oder 16:00 Uhr",
+        "price": "25",
+        "included": [
+          "Parasailing-Flug (5–7 Minuten in 50 m Höhe)",
+          "Abholung und Rücktransport vom Hotel"
+        ],
+        "image": "assets/images/programs images/parasailing flight.jpg"
+      },
+      {
+        "title": "Halb-U-Boot & Schnorcheln",
+        "availability": "Jeden Tag",
+        "duration": "ca. 3 Stunden",
+        "hotelPickup": "08:00 Uhr, 10:00 Uhr oder 14:00 Uhr",
+        "hotelReturn": "11:30 Uhr, 13:30 Uhr oder 17:30 Uhr",
+        "price": "15",
+        "included": [
+          "1-stündige Fahrt im Halb-U-Boot mit Panoramafenstern",
+          "30–40 Minuten Schnorcheln im Roten Meer",
+          "Abholung und Rücktransport vom Hotel"
+        ],
+        "image": "assets/images/programs images/Semi Submarine.jpg"
+      },
+      {
+        "title": "Tauchen & Schnorcheln entdecken",
+        "availability": "Jeden Tag",
+        "duration": "ca. 8 Stunden",
+        "hotelPickup": "08:00 Uhr",
+        "hotelReturn": "17:00 Uhr",
+        "price": "40",
+        "included": [
+          "Ganztägige Bootstour",
+          "Zwei Tauchgänge (je 15–20 Minuten)",
+          "Schnorchel-Stopp",
+          "Tauch- und Schnorchelausrüstung",
+          "Mittagessen & Getränke",
+          "Abholung und Rücktransport vom Hotel"
+        ],
+        "image": "assets/images/programs images/Diving Hurghada.webp"
+      },
+      {
+        "title": "Besuch im Hurghada Grand Aquarium",
+        "availability": "Jeden Tag",
+        "duration": "ca. 3 Stunden",
+        "hotelPickup": "10:00 Uhr",
+        "hotelReturn": "13:00 Uhr",
+        "price": "35",
+        "included": [
+          "Über 1.200 Meereslebewesen in 22 Galerien",
+          "Süßwasseraquarium, Zoo & Unterwassertunnel",
+          "Abholung und Rücktransport vom Hotel"
+        ],
+        "image": "assets/images/programs images/Grand Aquarium.webp"
+      }
+    ]
+  },
+  "contact": {
+    "hero": {
+      "getInTouch": "Kontakt aufnehmen",
+      "title": "Lass uns verbinden",
+      "subtitle": "Deine Reise beginnt mit einem einfachen Hallo – wir sind hier, um sie unvergesslich zu machen",
+      "btn1": "Auf WhatsApp chatten",
+      "btn2": "Jetzt anrufen"
+    },
+    "quick": {
+      "title": "Mehrere Kontaktmöglichkeiten",
+      "subtitle": "Wähle deine bevorzugte Kommunikationsmethode",
+      "phone": {
+        "badge": "Rund um die Uhr verfügbar",
+        "action1": "Jetzt anrufen",
+        "action2": "WhatsApp"
+      },
+      "email": {
+        "badge": "Schnelle Antwort",
+        "action1": "E-Mail senden"
+      },
+      "office": {
+        "badge": "Besuche uns",
+        "action1": "Auf Karte ansehen"
+      }
+    },
+    "info": {
+      "phone": {
+        "title": "Ruf uns an",
+        "label": "Wir sind 24/7 verfügbar – denn Abenteuer warten nicht"
+      },
+      "email": {
+        "title": "Schreib uns",
+        "label": "Schnelle Antworten, meist innerhalb von 2 Stunden"
+      },
+      "office": {
+        "title": "Unser Büro besuchen",
+        "value": "Hurghada, Ägypten",
+        "label": "Komm jederzeit vorbei – unsere Türen stehen offen"
+      }
+    },
+    "map": {
+      "title": "Finde uns leicht",
+      "subtitle": "Unser Büro liegt dort, wo sich Sonne und Meer treffen",
+      "overlayTitle": "Sun Sea Tour Büro",
+      "overlayBtn": "Route planen"
+    },
+    "hours": {
+      "title": "Öffnungszeiten",
+      "days": {
+        "monFri": "Montag - Freitag",
+        "sat": "Samstag",
+        "sun": "Sonntag",
+        "emergency": "Notfall-Support"
+      },
+      "times": {
+        "monFri": "09:00 - 18:00 Uhr",
+        "sat": "09:00 - 16:00 Uhr",
+        "sun": "10:00 - 15:00 Uhr",
+        "emergency": "Rund um die Uhr verfügbar"
+      }
+    },
+    "why": {
+      "title": "Warum uns wählen",
+      "features": [
+        "Professionelles & erfahrenes Team",
+        "24/7 Kundenservice",
+        "Bestpreis-Garantie",
+        "Sichere & zuverlässige Touren",
+        "Mehrsprachige Unterstützung"
+      ]
+    },
+    "faq": {
+      "title": "Hast du Fragen?",
+      "subtitle": "Hier sind einige schnelle Antworten, bevor du deine Koffer packst",
+      "items": [
+        {
+          "question": "Wie buche ich meine Traumreise?",
+          "answer": "Buchen ist einfach! Nutze unsere Website, ruf unser Team an oder sende uns eine Nachricht per WhatsApp oder E-Mail – wir helfen dir Schritt für Schritt."
+        },
+        {
+          "question": "Was ist im Preis enthalten?",
+          "answer": "Unsere Touren sind stressfrei: Transport, Unterkunft, Mahlzeiten (wie angegeben), erfahrene Guides und Aktivitäten – alles inklusive. Keine versteckten Kosten."
+        },
+        {
+          "question": "Kann ich meine eigene Tour gestalten?",
+          "answer": "Natürlich! Ob romantischer Urlaub, Familienreise oder Abenteuertrip – wir passen alles individuell für dich an."
+        },
+        {
+          "question": "Was, wenn ich stornieren muss?",
+          "answer": "Manchmal kommt es anders. Unsere Stornierungsbedingungen sind flexibel. Bis zu 7 Tage vor Abreise kannst du kostenlos stornieren."
+        }
+      ]
+    },
+    "cta": {
+      "title": "Bereit für dein Abenteuer?",
+      "subtitle": "Kontaktiere uns heute und lass uns deine perfekte Reise ans Rote Meer planen",
+      "btn1": "Jetzt chatten",
+      "btn2": "Direkt anrufen"
+    }
+  },
+  "footer": {
+    "quick_links": "Entdecken",
+    "home": "Startseite",
+    "about": "Über uns",
+    "services": "Ausflüge",
+    "contact": "Kontakt",
+    "contact_title": "Kontakt aufnehmen",
+    "premiumTours": "Premium-Touren",
+    "happyGuests": "Glückliche Gäste",
+    "destinations": "Reiseziele",
+    "phone": "Telefon",
+    "email": "E-Mail",
+    "addressText": "Adresse",
+    "follow_us": "Folge uns",
+    "about_company": "Sun Sea Tour ist dein vertrauenswürdiger Partner für unvergessliche Reisen. Vom Roten Meer bis zu weltweiten Zielen – wir schaffen reibungslose Reiseerlebnisse mit Leidenschaft und Expertise.",
+    "address": "Hurghada, Ägypten",
+    "rights": "Sun Sea Tour. Alle Rechte vorbehalten."
+  },
+  "notFound": {
+    "title": "404",
+    "message": "Verirrt auf der Reise?",
+    "description": "Sieht so aus, als hätte diese Seite einen Umweg genommen. Keine Sorge – Abenteuer warten!<br>Wir führen dich zurück auf den richtigen Weg.",
+    "button": "Zurück zur Startseite"
+  }
+}

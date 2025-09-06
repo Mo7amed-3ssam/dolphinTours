@@ -1,0 +1,201 @@
+{
+  "toTop": "Retour en haut !",
+  "whatsappText": "Discutez avec nous !",
+  "loading": "Chargement...",
+  "nav": {
+    "home": "Accueil",
+    "about": "À propos",
+    "services": "Excursions",
+    "contact": "Contact",
+    "brand": "Dolphin Tours"
+  },
+  "home": {
+    "hero": {
+      "title": "Découvrez l'Océan avec Dolphin Tours",
+      "subtitle": "Créer des aventures marines magiques remplies d'émerveillement, de découverte et de souvenirs inoubliables",
+      "explore": "Commencer l'Exploration",
+      "book": "Réserver votre Excursion"
+    },
+    "destinations": {
+      "sectionTitle": "Contactez-nous pour des informations gratuites sur nos excursions",
+      "sectionSubtitle": "Des eaux cristallines aux merveilles marines — votre aventure océanique commence ici",
+      "viewDetails": "Découvrir Plus"
+    },
+    "features": {
+      "sectionTitle": "Pourquoi Choisir Dolphin Tours",
+      "sectionSubtitle": "Votre passerelle vers des expériences marines extraordinaires et des aventures océaniques",
+      "safe": {
+        "title": "Aventures Océaniques Sûres",
+        "desc": "Normes de sécurité certifiées, équipage expérimenté et tranquillité d'esprit à chaque excursion marine."
+      },
+      "price": {
+        "title": "Excellente Valeur",
+        "desc": "Prix transparents, forfaits exclusifs et options de réservation flexibles conçues pour vous."
+      },
+      "guide": {
+        "title": "Guides Marines Experts",
+        "desc": "Biologistes marins passionnés et expérimentés et capitaines expérimentés prêts à partager les merveilles de l'océan."
+      },
+      "custom": {
+        "title": "Expériences Océaniques Personnalisées",
+        "desc": "Excursions sur mesure conçues autour de vos intérêts, niveau de confort et curiosité marine."
+      }
+    },
+    "testimonials": {
+      "sectionTitle": "Histoires de nos Explorateurs Océaniques",
+      "sectionSubtitle": "Avis authentiques d'aventuriers qui ont découvert la mer avec Dolphin Tours"
+    }
+  },
+  "about": {
+    "hero": {
+      "title": "À Propos de Dolphin Tours",
+      "subtitle": "Créer des expériences marines magiques depuis nos débuts",
+      "discover": "Découvrir Notre Histoire"
+    },
+    "story": {
+      "title": "Notre Histoire",
+      "ourJourney": "Notre Parcours",
+      "p1": "Dolphin Tours est une entreprise de tourisme marin agréée, reconnue par les autorités maritimes avec des certifications de sécurité complètes. Depuis notre fondation, nous nous sommes spécialisés dans la création d'expériences océaniques inoubliables — de l'observation des dauphins aux rencontres avec les baleines, et des aventures de plongée en apnée aux excursions de photographie de la faune marine. Nous fournissons des services complets incluant l'équipement de sécurité, des guides professionnels et un soutien personnalisé de notre équipe d'experts marins dédiés.",
+      "p2": "Aujourd'hui, Dolphin Tours est apprécié par les passionnés de l'océan dans la région et au-delà pour notre professionnalisme, notre expertise marine et notre engagement envers la conservation océanique.",
+      "stats": {
+        "travelers": "Explorateurs Océaniques Heureux",
+        "destinations": "Destinations Marines",
+        "experience": "Années d'Expertise Marine"
+      }
+    },
+    "values": {
+      "title": "Nos Valeurs",
+      "subtitle": "Les principes qui guident chaque aventure océanique",
+      "trust": {
+        "name": "Confiance",
+        "title": "Confiance et Sécurité",
+        "desc": "Nous gagnons votre confiance avec des services transparents, des normes de sécurité fiables et des relations durables."
+      },
+      "sustainability": {
+        "name": "Durabilité",
+        "title": "Conservation Océanique",
+        "desc": "Nous promouvons un tourisme marin responsable qui protège la vie océanique et préserve les écosystèmes marins."
+      },
+      "excellence": {
+        "name": "Excellence",
+        "title": "Engagement envers l'Excellence",
+        "desc": "Chaque excursion est soigneusement conçue pour offrir des expériences marines uniques et des souvenirs océaniques précieux."
+      }
+    },
+    "achievements": {
+      "title": "Nos Réalisations",
+      "subtitle": "Jalons qui nous inspirent à aller de l'avant",
+      "awards": {
+        "t1": "Prix d'Excellence du Tourisme Marin 2023",
+        "d1": "Reconnu pour des expériences océaniques exceptionnelles",
+        "t2": "Évalué 4,9/5",
+        "d2": "Satisfaction constante des explorateurs",
+        "t3": "Certifié Conservation Océanique",
+        "d3": "Pionnier des pratiques de tourisme marin durable",
+        "t4": "5000+ Explorateurs Océaniques Heureux",
+        "d4": "Création de moments marins inoubliables à travers les mers"
+      }
+    },
+    "callActions": {
+      "title": "Prêt à Commencer votre Aventure Océanique ?",
+      "subtitle": "Rejoignez-nous pour une expérience marine inoubliable",
+      "contact": "Contactez-nous Aujourd'hui",
+      "book": "Réserver votre Excursion"
+    }
+  },
+  "services": {
+    "hero": {
+      "title": "Nos Excursions Marines",
+      "subtitle": "Découvrez les merveilles de l'océan avec nos guides experts",
+      "explore": "Explorer les Excursions"
+    },
+    "tours": {
+      "sectionTitle": "Choisissez votre Aventure Océanique",
+      "sectionSubtitle": "De l'observation douce des dauphins aux rencontres marines passionnantes",
+      "dolphin": {
+        "title": "Observation des Dauphins",
+        "desc": "Observez ces créatures magnifiques dans leur habitat naturel avec nos biologistes marins expérimentés."
+      },
+      "whale": {
+        "title": "Rencontres avec les Baleines",
+        "desc": "Témoignez de la majesté des baleines pendant leurs saisons de migration avec nos excursions spécialisées."
+      },
+      "snorkeling": {
+        "title": "Aventures de Plongée en Apnée",
+        "desc": "Explorez les récifs coralliens vibrants et la vie marine avec nos expériences de plongée en apnée guidées."
+      },
+      "photography": {
+        "title": "Photographie Marine",
+        "desc": "Capturez des moments océaniques époustouflants avec nos excursions marines axées sur la photographie."
+      }
+    }
+  },
+  "contact": {
+    "hero": {
+      "title": "Nous Contacter",
+      "subtitle": "Prêt à commencer votre aventure océanique ? Contactez-nous aujourd'hui !",
+      "reach": "Nous Joindre"
+    },
+    "info": {
+      "title": "Informations de Contact",
+      "subtitle": "Nous sommes là pour vous aider à planifier votre expérience marine parfaite",
+      "address": "Centre de Tourisme Marin, District Côtier",
+      "phone": "+20 123 456 789",
+      "email": "info@dolphintours.com",
+      "hours": "Quotidien : 8h00 - 18h00"
+    },
+    "form": {
+      "title": "Envoyez-nous un Message",
+      "name": "Nom Complet",
+      "email": "Adresse E-mail",
+      "phone": "Numéro de Téléphone",
+      "tour": "Excursion Préférée",
+      "date": "Date Préférée",
+      "guests": "Nombre d'Invités",
+      "message": "Demandes Spéciales",
+      "submit": "Envoyer le Message",
+      "sending": "Envoi en cours...",
+      "success": "Message envoyé avec succès !",
+      "error": "Erreur lors de l'envoi du message. Veuillez réessayer."
+    }
+  },
+  "footer": {
+    "company": {
+      "title": "Dolphin Tours",
+      "desc": "Votre partenaire de confiance pour des aventures marines extraordinaires et des découvertes océaniques.",
+      "social": "Suivez-nous sur les réseaux sociaux"
+    },
+    "quickLinks": {
+      "title": "Liens Rapides",
+      "home": "Accueil",
+      "about": "À propos",
+      "services": "Excursions",
+      "contact": "Contact"
+    },
+    "tours": {
+      "title": "Nos Excursions",
+      "dolphin": "Observation des Dauphins",
+      "whale": "Rencontres avec les Baleines",
+      "snorkeling": "Plongée en Apnée",
+      "photography": "Excursions Photo"
+    },
+    "contact": {
+      "title": "Informations de Contact",
+      "address": "Centre de Tourisme Marin",
+      "phone": "+20 123 456 789",
+      "email": "info@dolphintours.com"
+    },
+    "bottom": {
+      "rights": "© 2024 Dolphin Tours. Tous droits réservés.",
+      "made": "Créé avec",
+      "by": "par",
+      "target": "Target Marketing"
+    }
+  },
+  "error": {
+    "title": "Page Non Trouvée",
+    "subtitle": "La page que vous recherchez n'existe pas",
+    "back": "Retour à l'Accueil",
+    "desc": "Désolé, nous n'avons pas pu trouver la page que vous recherchiez. Elle pourrait avoir été déplacée, supprimée ou vous avez saisi une mauvaise URL."
+  }
+}
